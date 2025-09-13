@@ -1,0 +1,20 @@
+/* Main CSS for LeetAssist - Aggregator */
+
+/* Core widget */
+@import url('ui-components/widget-core.css');
+@import url('ui-components/widget-hover.css');
+
+/* Panel and features */
+@import url('ui-components/panel-layout.css');
+@import url('ui-components/panel-features.css');
+
+/* Chat area */
+@import url('ui-components/chat-area.css');
+
+/* Animations and responsive */
+@import url('ui-components/animations.css');
+@import url('responsive.css');
+
+/* Accessibility and formatting */
+@import url('ui-components/accessibility.css');
+@import url('ui-components/formatting.css');
